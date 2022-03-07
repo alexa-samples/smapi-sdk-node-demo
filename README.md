@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # Alexa Skills Management API (SMAPI) SDK Demo for Node.js 
 This demonstration shows how to set up a Node.js project with the Alexa Skills Management API SDK and run some sample API calls to list skills for a vendor ID or get analytics data with the [Alexa Skill Metrics API](https://developer.amazon.com/en-US/docs/alexa/smapi/metrics-api.html/). 
 
